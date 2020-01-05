@@ -1,0 +1,2 @@
+curl https://raw.githubusercontent.com/houi-lin/cmps101-pt.u19.grading/master/pa2/pa2.sh > pa2.sh
+chmod +x pa2.sh

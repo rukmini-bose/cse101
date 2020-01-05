@@ -1,0 +1,13 @@
+// Rukmini Bose 
+// rubose 
+// PA3 
+
+1. Arithmetic.c : Top level client module 
+2. BigInteger.c : performs different actions on given BigInteger
+3. BigInteger.h : outline for all BigInt functions
+4. BigIntegerTest.c : test file for BigInteger.c
+5. List.c : ADT module that contains code to sort a list
+6. List.h : outline for all the List functions 
+7. ListTest.c : test file for List.c
+8. README : Table of contents of program
+9. Makefile : code needed to compile program 

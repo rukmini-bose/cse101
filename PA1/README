@@ -1,0 +1,10 @@
+// Rukmini Bose 
+// rubose 
+// PA1
+
+// 1. List.h: contains the outline for all the list functions
+// 2. List.c: ADT module that contains all the code for the functions necesary to sort a given input file.  
+// 3. ListClient.c: Test case for ADT 
+// 4. Lex.c: Module that sorts input file
+// 5. Makefile: code needed in order to compile the program 
+// 6. README: Table of Contents for the entire program 

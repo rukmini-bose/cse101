@@ -1,0 +1,13 @@
+// Rukmini Bose 
+// rubose 
+// PA2 
+
+// 1. Sparse.c: client module that takes in 2 arguments
+// 2. Matrix.c: performs different actions on given matricies 
+// 3. Matrix.h: contains outline for all the Matrix functions
+// 4. MatrixTest.c: test file for the Matrix.c
+// 5. List.c: ADT module that countains all the code for the functions // neccessary to sort a list.
+// 6. List.h: contains the outline for all the List functions
+// 7. ListTest.c: test file for List.c 
+// 8. Makefile: code needed to compile the program
+// 9. README: table of contents for entire program
