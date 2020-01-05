@@ -1,6 +1,6 @@
-// Rukmini Bose 
-// rubose 
-// PA1
+#  Rukmini Bose 
+#  rubose 
+#  PA1
 #------------------------------------------------------------------------------
 # Makefile for CSE 101 Programming Assignment 1
 #
